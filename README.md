@@ -1,3 +1,3 @@
-# web-design-kpi
+# web-design-kpi-lab3
 
 Селетков Владислав Русланович, група КВ-91
