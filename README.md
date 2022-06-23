@@ -1,19 +1,9 @@
-# site
+# web-design-kpi-lab3
 
-## Project setup
-```
-npm install
-```
+Селетков Владислав Русланович, група КВ-91 Лабораторна робота №3: "Розробка Web-додатка засобами Javascript/VueJS"
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Мета: ознайомитись із засобами фреймворка VueJS та навчитись створювати асинхронні запити до Web-сервера.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Загальне завдання: адаптувати програмний код ЛР№2 до вимог фреймворка VueJS та забезпечити завантаження необхідних даних з Web-сервера.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Звіт: https://docs.google.com/document/d/122s4R0Udgnn6qZshOvQxYxujgPreGkjNpO8IKLCpQow/edit?usp=sharing
