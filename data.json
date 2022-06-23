@@ -1,0 +1,44 @@
+{
+  "profile": [
+    {
+      "firstName": "Mike",
+      "lastName": "Tromb",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "email": "MikeTromb@gmail.com",
+      "date": "2002-06-18",
+      "checkboxAgree": "agree",
+      "sex": "male"
+    },
+    {
+      "firstName": "Tom",
+      "lastName": "Handle",
+      "password": "qwer",
+      "confirmPassword": "qwer",
+      "email": "TomHandle@gmail.com",
+      "date": "2003-03-12",
+      "checkboxAgree": "agree",
+      "sex": "female"
+    },
+    {
+      "firstName": "Gleb",
+      "lastName": "Arrow",
+      "password": "bylka",
+      "confirmPassword": "bylka",
+      "email": "bylkaGleb@gmail.com",
+      "date": "1999-01-01",
+      "checkboxAgree": "agree",
+      "sex": "male"
+    },
+    {
+      "firstName": "Vlad",
+      "lastName": "Sel",
+      "password": "qwerty",
+      "confirmPassword": "qwerty",
+      "email": "VladSel@gmail.com",
+      "date": "2000-08-06",
+      "checkboxAgree": "agree",
+      "sex": "male"
+    }
+  ]
+}
